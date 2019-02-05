@@ -16,5 +16,10 @@
       <prefix>lex</prefix>
       <artifactId>lex-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>lar-webapp-plugin</name>
+      <prefix>lar-webapp</prefix>
+      <artifactId>lar-webapp-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
