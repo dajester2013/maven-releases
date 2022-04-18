@@ -39,10 +39,12 @@
 	</build>
 	<modules>
 		<module>lar-maven-plugin</module>
-		<module>lco-maven-plugin</module>
+		<!-- <module>lco-maven-plugin</module> -->
 		<module>lex-maven-plugin</module>
 		<module>lucee-maven-support</module>
 		<module>lar-webapp-plugin</module>
+		<module>lucee-testing-plugin</module>
+		<module>lucee-testing-testbox</module>
 	</modules>
 	<dependencies>
 		<dependency>
